@@ -1,13 +1,13 @@
-# CodeAlpha Internship
+# CODEALPHA INTERNSHIP
 ## Task 1
 
-## 🌐 Language Translation Tool
+## Language Translation Tool
 
 A simple and user-friendly desktop application built with **Python** and **PyQt5** that allows real-time translation between multiple languages using the Google Translate API.
 
 ---
 
-## ✨ Features
+## Features
 
 - Translate text between 8 languages:
   English, Urdu, Hindi, German, Spanish, French, Arabic, Chinese  
@@ -18,7 +18,7 @@ A simple and user-friendly desktop application built with **Python** and **PyQt5
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python  
 - PyQt5 (GUI)  
@@ -26,7 +26,7 @@ A simple and user-friendly desktop application built with **Python** and **PyQt5
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 ```bash
