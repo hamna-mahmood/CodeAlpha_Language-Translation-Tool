@@ -27,28 +27,28 @@ A simple and user-friendly desktop application built with **Python** and **PyQt5
 ---
 ## Screenshots
 ### English → Urdu
-![English to Urdu](eng-to-ur.PNG)
+![English to Urdu](images/eng-to-ur.PNG)
 
 ### Copy Feature
-![Copy Text](copy-text.PNG)
+![Copy Text](images/copy-text.PNG)
 
 ### Urdu → French
-![Urdu to French](ur-to-fr.PNG)
+![Urdu to French](images/ur-to-fr.PNG)
 
 ### French → Spanish
-![French to Spanish](fr-to-esp.PNG)
+![French to Spanish](images/fr-to-esp.PNG)
 
 ### Spanish → German
-![Spanish to German](esp-to-du.PNG)
+![Spanish to German](images/esp-to-du.PNG)
 
 ### German → Arabic
-![German to Arabic](du-to-ar.PNG)
+![German to Arabic](images/du-to-ar.PNG)
 
 ### Arabic → Hindi
-![Arabic to Hindi](ar-to-hi.PNG)
+![Arabic to Hindi](images/ar-to-hi.PNG)
 
 ### Hindi → Chinese
-![Hindi to Chinese](hi-to-cn.PNG)
+![Hindi to Chinese](images/hi-to-cn.PNG)
 
 ## How to Run
 
